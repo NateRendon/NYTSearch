@@ -1,0 +1,30 @@
+header{
+    background-color: rgba(0, 0 , 200, 0.9);
+    color: white;
+    width: 100%;
+    margin: auto;
+    
+}
+ #search > header,
+ #articles > header{
+    border-radius: 10px;
+    padding: 20px;
+   
+ }
+ #search, #articles{
+     margin: 40px auto;
+     border: 1px dashed grey;
+     width: 70%
+ }
+
+#title-header{
+    text-align: center
+}
+
+.formInputs{
+    display: block
+}
+
+label, input, button{
+    margin:15px;
+}
